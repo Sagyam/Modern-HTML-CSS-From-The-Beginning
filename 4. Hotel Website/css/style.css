@@ -101,3 +101,23 @@ p {
 #home-info .info-content p {
   padding-bottom: 20px;
 }
+
+/*Features*/
+.box {
+  float: left;
+  width: 33%;
+  padding: 50px;
+  text-align: center;
+}
+
+.box i {
+  margin-bottom: 10px;
+}
+
+/*Main Footer*/
+#main-footer {
+  text-align: center;
+  background-color: #444;
+  color: white;
+  padding: 20px;
+}
