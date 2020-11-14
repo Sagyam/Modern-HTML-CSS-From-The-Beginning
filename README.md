@@ -3,7 +3,7 @@
 ![Image](./1.%20Introduction/Modern-HTML-CSS-From-The-Beginning-Including-Sass.jpg)
 
 Build modern responsive websites &amp; UIs with HTML5, CSS3 &amp; Sass.
-Taught by [Brad Traversy](https://www.udemy.com/course/modern-html-css-from-the-beginning/#instructor-1)
+Taught by [Brad Traversy](https://www.traversymedia.com/)
 
 ## Topics Covered
 
