@@ -150,7 +150,6 @@ p {
   margin-bottom: 40px;
   border-radius: 5px;
   opacity: 0.9;
-  
 }
 
 #testimonials .testimonial img {
@@ -158,6 +157,33 @@ p {
   float: left;
   margin-right: 20px;
   border-radius: 50%;
+}
+
+/*Contact form*/
+#contact-form.form-group {
+  margin-bottom: 20px;
+}
+
+#contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#contact-form textarea,
+#contact-form input {
+  width: 100%;
+  padding: 10px;
+  border: 1px #ddd solid;
+}
+
+#contact-form textarea:focus,
+#contact-form input:focus {
+  outline: none;
+  border: 2px #f7c08a solid;
+}
+
+#contact-form textarea {
+  height: 100px;
 }
 
 /*Main Footer*/
