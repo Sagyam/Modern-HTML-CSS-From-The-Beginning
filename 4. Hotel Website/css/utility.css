@@ -4,6 +4,11 @@
   clear: both;
 }
 
+/*Heading*/
+.l-heading{
+  font-size: 40px;
+}
+
 /*Padding*/
 .py-1 {
   padding: 10px 0;
@@ -62,5 +67,5 @@
 }
 .bg-primary {
   background: #f7c08a;
-  color: #fff;
+  color: #000;
 }
