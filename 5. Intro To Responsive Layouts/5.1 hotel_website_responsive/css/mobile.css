@@ -3,8 +3,7 @@
   text-align: center;
 }
 
-#navbar ul,
-#navbar ul li {
+#navbar ul, #navbar ul li {
   float: none;
 }
 
@@ -44,8 +43,7 @@
 }
 
 /* About */
-#about-info .info-right,
-#about-info .info-left {
+#about-info .info-right, #about-info .info-left {
   float: none;
   width: 100%;
 }
