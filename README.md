@@ -53,7 +53,10 @@ Taught by [Brad Traversy](https://www.traversymedia.com/)
   - [x] [Add Responsiveness to Hotel Website](./5.%20Intro%20To%20Responsive%20Layouts/5.1%20hotel_website_responsive/index.html)
 - [ ] [Intro To Flexbox](06-flexbox)
   - [x] [Flexbox Basics](./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.html)
-  - [x] [Flexbox Properties](./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.html)
+  - [x] [Flexbox Properties](./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.
+        html)
+  - [x] [Flexbox Properties](./6.%20Intro%20to%20Flexbox/17_Flexbox_Basics.
+        html)
 - [ ] [Flexbox Website Project](#)
 - [ ] [Website Deployment - Shared Host](06-website-deployment)
 - [ ] [More CSS Concepts - Advanced Selectors, Animation & More](07-more-css-concepts)
