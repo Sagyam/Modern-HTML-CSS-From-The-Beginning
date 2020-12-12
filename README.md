@@ -1,4 +1,8 @@
 # [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+![GitHub](https://img.shields.io/github/license/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
 
 ![Image](./1.%20Introduction/Modern-HTML-CSS-From-The-Beginning-Including-Sass.jpg)
 
