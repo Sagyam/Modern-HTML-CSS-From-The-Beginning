@@ -1,4 +1,5 @@
 # [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning)
+
 ![GitHub](https://img.shields.io/github/license/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Sagyam/Modern-HTML-CSS-From-The-Beginning?style=for-the-badge)
@@ -55,13 +56,13 @@ Taught by [Brad Traversy](https://www.traversymedia.com/)
   - [x] [Em & Rem Units](./5.%20Intro%20To%20Responsive%20Layouts/csssandbox/14_em_rem_html)
   - [x] [VH & VW Units](./5.%20Intro%20To%20Responsive%20Layouts/csssandbox/15_vh_vw.html)
   - [x] [Add Responsiveness to Hotel Website](./5.%20Intro%20To%20Responsive%20Layouts/5.1%20hotel_website_responsive/index.html)
-- [ ] [Intro To Flexbox](06-flexbox)
-  - [x] [Flexbox Basics] (./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.html)
-  - [x] [Flexbox Properties](./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.
+- [x] [Intro To Flexbox](06-flexbox)
+  - [x] [Flexbox Basics](./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.html)
+  - [x] [Flexbox Properties(./6.%20Intro%20to%20Flexbox/16_Flexbox_Basics.
         html)
   - [x] [Flexbox Properties](./6.%20Intro%20to%20Flexbox/17_Flexbox_Basics.
         html)
-- [ ] [Flexbox Website Project](#)
+- [ ] [Flexbox Website Project](./7.%20Edge%20Ledger/index.html)
 - [ ] [Website Deployment - Shared Host](06-website-deployment)
 - [ ] [More CSS Concepts - Advanced Selectors, Animation & More](07-more-css-concepts)
 - [ ] [Mini Projects With Keyframes, Transitions, etc](#)
